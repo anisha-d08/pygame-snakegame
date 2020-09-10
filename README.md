@@ -1,1 +1,1 @@
-# pygame-snakegame
+# Simple beginner level game using PyGame Module
