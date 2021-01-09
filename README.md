@@ -17,3 +17,5 @@ Main Modules:
 8. Collision with boundary or it's own tail
 9. Displaying score
 
+![Game Window](Snake-Game-Window.jpg)
+
