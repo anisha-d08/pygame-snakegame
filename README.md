@@ -19,3 +19,4 @@ Main Modules:
 
 ![Game Window](Snake-Game-Window.jpg)
 
+![Game Window](Snake-Game-Lost-Screen.jpg)
